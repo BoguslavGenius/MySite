@@ -1,0 +1,1 @@
+<a class="btn btn-sm btn-outline-secondary" href="authorization.php">Ввійти</a>
